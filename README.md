@@ -13,7 +13,7 @@ The resulting Graphite server __listens only on https port 443__ and has been co
 
 ## Provides
 
-* Graphite 0.9.12 ([graphite-web](https://github.com/graphite-project/graphite-web), [carbon](https://github.com/graphite-project/carbon), [whisper](https://github.com/graphite-project/whisper))
+* Graphite 0.9.13-pre1 ([graphite-web](https://github.com/graphite-project/graphite-web), [carbon](https://github.com/graphite-project/carbon), [whisper](https://github.com/graphite-project/whisper))
 * StatsD ([statsite](https://github.com/armon/statsite))
 * collectd agent
 
